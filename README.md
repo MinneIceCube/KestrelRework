@@ -1,5 +1,5 @@
 This is a small rework of the Kestrel ship. The intent is to put it on par with several higher tiered alien outfits, most notablely Wanderer (2) outfits, as opposed to standard Human (1-1.5) Outfits. 
-This does not make much sense according to the lore, but I personally prefer the asthetic of the Kestrel compared to many of the Wanderer ships. as such, the changes are as follows:
+This does not make much sense according to the lore, but I personally prefer the asthetic of the Kestrel compared to many of the Wanderer ships. As such, the changes are as follows:
 
 -The requirements for the Kestrel sub-quest have been changed:
 	-The combat rating was increased from 8,000 (Combat rank 9: "Force to be reckoned with") --> 22,000 (Combat rank "Fearsome Scrapper). Intended to limit obtaining the newly buffed ship until the player is on a similar power level.
@@ -26,4 +26,4 @@ This does not make much sense according to the lore, but I personally prefer the
 -Weapon Kestrel:
 	-Weapon Capacity 40 --> 150
   
-  I made these edits mostly for personal useage, and as such these are the numbers I found decent for my late game ship. If you feel otherwise, feel free to make edits as you please.
+  I made these edits mostly for personal useage, and as such these are the numbers I found acceptable for my late game ship. If you feel otherwise, feel free to make edits as you please.
