@@ -27,3 +27,6 @@ This does not make much sense according to the lore, but I personally prefer the
 	-Weapon Capacity 40 --> 150
   
   I made these edits mostly for personal useage, and as such these are the numbers I found acceptable for my late game ship. If you feel otherwise, feel free to make edits as you please.
+
+-4/15/22: Updated file for new version, 0.9.13, The current version on Steam as of writing. Additionally, reduced the Combat Rating required to trigger the Kestral unlock questline from 22,000 --> 12,500. Please note that reaching Combat Rank 9 and having a fleet without enough armament deterrence
+WILL allow the "Hunted" event to occur. Be prepared to fight a significant fleet composed of high level Marauder ships BEFORE you can reach the Kestral.
